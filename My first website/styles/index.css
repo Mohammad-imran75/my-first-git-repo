@@ -1,8 +1,5 @@
-h3{
-    background-color: aqua;
-}
-p{
-    color: red;
-    background-color: aqua;
-    margin: 10px;
+div{
+    color: blue;
+    background-color: red;
+    margin-bottom: 20px;
 }
